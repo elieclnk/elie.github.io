@@ -86,9 +86,7 @@ work:
     summary: |
       Responsibilities include:
       - Developed statistical models for gait metrics estimation using noisy real-time signals from inertial sensors.
-      - Applied clustering (K-Means, Mean-Shift, DBSCAN), classification (SVM, Random Forest, MLP, CNN, RNN), and
-statistical analysis (Statistical visualization, Bayesian inference, correlation analysis) on kinematic data to
-investigate gait patterns
+      - Applied clustering (K-Means, Mean-Shift, DBSCAN), classification (SVM, Random Forest, MLP, CNN, RNN), and statistical analysis (Statistical visualization, Bayesian inference, correlation analysis) on kinematic data to investigate gait patterns
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
