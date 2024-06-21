@@ -46,8 +46,8 @@ interests:
 education:
   - area: MEng Computational Biology
     institution: University of California Berkeley
-    date_start: 2019-15-09
-    date_end: 2020-15-06
+    date_start: 2019-09-15
+    date_end: 2020-06-15
     summary:
       Courses included:
       - Machine Learning applied to Biology
@@ -55,8 +55,8 @@ education:
       - CS 289A / Intro to Machine Learning
   - area: Msc & BSc Computer Science and Mechanical Engineering
     institution: Arts et Metiers ParisTech (ENSAM) - Paris
-    date_start: 2014-01-10
-    date_end: 2019-15-06
+    date_start: 2014-10-01
+    date_end: 2019-06-15
     summary:
       GPA: 3.9/4.0
       Courses included:
@@ -68,7 +68,7 @@ work:
     company_name: Evolution Devices
     company_url: ''
     company_logo: ''
-    date_start: 2022-01-07
+    date_start: 2022-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -79,8 +79,8 @@ work:
     company_name: Evolution Devices
     company_url: ''
     company_logo: ''
-    date_start: 2020-01-07
-    date_end: 2022-01-07
+    date_start: 2020-07-01
+    date_end: 2022-07-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
