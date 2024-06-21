@@ -113,15 +113,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: tennis
+      - name: Photography
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: camera
+      - name: Cinema
         description: ''
         percent: 80
         icon: camera
@@ -129,10 +129,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
+  - name: Spanish
+    percent: 50
+  - name: Dutch
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -168,4 +170,4 @@ awards:
 
 ## About Me
 
-Hello! I'm Elie Celnikier, a Machine Learning Engineer working at the intersection of Neuroscience and AI. My passion lies in decoding human-based signals, particularly those related to movement and cognition.
+Hello! I'm a Machine Learning Engineer working at the intersection of Neuroscience and AI. My passion lies in decoding human-based signals, particularly those related to movement and cognition.
