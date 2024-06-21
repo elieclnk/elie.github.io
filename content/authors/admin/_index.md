@@ -72,9 +72,11 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and deployed proprietary machine learning algorithms for two products:
+        - EvoWalk: Sensor-based leg wearable that estimates gait metrics and analyzes walking patterns in real-time.
+        - EvoVision: Markerless motion capture system for gait analysis that leverages 3D multi-person pose estimation techniques.
+      -  Oversaw backend architecture design and successfully launched the EvoVision 3D markerless motion capture syste into production. Managed a team of 2 software engineers.
+      - AI lead for FDA application of the EvoWalk: led to FDA approval in December 2023.
   - position: Machine Learning Engineer
     company_name: Evolution Devices
     company_url: ''
@@ -83,9 +85,10 @@ work:
     date_end: 2022-07-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed statistical models for gait metrics estimation using noisy real-time signals from inertial sensors.
+      - Applied clustering (K-Means, Mean-Shift, DBSCAN), classification (SVM, Random Forest, MLP, CNN, RNN), and
+statistical analysis (Statistical visualization, Bayesian inference, correlation analysis) on kinematic data to
+investigate gait patterns
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -94,15 +97,19 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning & Deep Learning (Tensorflow & Pytorch)
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Signal Processing
         description: ''
-        percent: 40
+        percent: 100
+        icon: chart-bar
+      - name: AWS & Google Cloud
+        description: ''
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -163,4 +170,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Elie Celnikier, a Machine Learning Engineer at the intersection of Neuroscience and AI. My passion lies in decoding human-based signals, particularly those related to movement and cognition.
+Currently, I'm Head of Data Science at Evolution Devices, where I apply machine learning techniques to analyze gait patterns. Our goal? To enhance mobility and improve quality of life for individuals facing movement challenges.
+Excited about the future of brain-machine interfaces? Let's connect and explore how we can shape the next generation of neurotechnology together!
