@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'elie.celnikier@gmail.com'
+    url: elie.celnikier@gmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/elieclnk
   - icon: brands/linkedin
-    url: www.linkedin.com/in/eliecelnikier
+    url: https://linkedin.com/in/eliecelnikier
 
 interests:
   - Artificial Intelligence
@@ -168,6 +168,4 @@ awards:
 
 ## About Me
 
-Hello! I'm Elie Celnikier, a Machine Learning Engineer at the intersection of Neuroscience and AI. My passion lies in decoding human-based signals, particularly those related to movement and cognition.
-Currently, I'm Head of Data Science at Evolution Devices, where I apply machine learning techniques to analyze gait patterns. Our goal? To enhance mobility and improve quality of life for individuals facing movement challenges.
-Excited about the future of brain-machine interfaces? Let's connect and explore how we can shape the next generation of neurotechnology together!
+Hello! I'm Elie Celnikier, a Machine Learning Engineer working at the intersection of Neuroscience and AI. My passion lies in decoding human-based signals, particularly those related to movement and cognition.
