@@ -48,16 +48,16 @@ education:
     institution: University of California Berkeley
     date_start: 2019-09-15
     date_end: 2020-06-15
-    summary:
+    summary: |
       Courses included:
       - Machine Learning applied to Biology
       - Computational Biology
-      - CS 289A / Intro to Machine Learning
+      - CS 289A - Intro to Machine Learning
   - area: Msc & BSc Computer Science and Mechanical Engineering
     institution: Arts et Metiers ParisTech (ENSAM) - Paris
     date_start: 2014-10-01
     date_end: 2019-06-15
-    summary:
+    summary: |
       GPA: 3.9/4.0
       Courses included:
       - Applied Mathematics
