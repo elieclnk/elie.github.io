@@ -2,7 +2,7 @@
 
 Welcome to my personal website. Here, I showcase my work as a Machine Learning Engineer and my passion for Neuroscience.
 
-[![Screenshot](.github/preview.webp)](https://elieclnk.github.io)
+[![Screenshot](.github/screenshot.png)](https://elieclnk.github.io)
 
 ## About
 
