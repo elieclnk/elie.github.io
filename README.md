@@ -17,7 +17,7 @@ This website is built using the Hugo Academic CV Theme. It serves as my online r
 
 ## Get in Touch
 
-Feel free to reach out via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin).
+Feel free to reach out via [email](mailto:elie.celnikier@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eliecelnikier).
 
 Visit the site: [elieclnk.github.io](https://elieclnk.github.io)
 
