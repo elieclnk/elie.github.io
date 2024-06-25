@@ -146,13 +146,13 @@ awards:
    date: '2019-09-15'
    awarder: UC Berkeley
    summary: |
-      - All full-time MEng applications are automatically considered for the Fung Excellence Scholarship. This merit award is given to a subset of candidates with noteworthy academic or professional accomplishments, as determined by department faculty nominations. The award covers approximately 25-50% of the tuition and fees for the full-time MEng program. Exact grant amounts may vary.
+      All full-time MEng applications are automatically considered for the Fung Excellence Scholarship. This merit award is given to a subset of candidates with noteworthy academic or professional accomplishments, as determined by department faculty nominations. The award covers approximately 25-50% of the tuition and fees for the full-time MEng program. Exact grant amounts may vary.
   - title: National Science Foundation (NSF) - Tech Lead - 3D Markerless Motion Capture Technology For Gait Analysis - $1M
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153138
     date: '2023-05-23'
     awarder: NSF
     summary: |
-      - The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project benefitd the 70 million people struggling with gait disorders in the US. Gait analysis monitors how individuals walk to predict or prevent injuries and track rehabilitation progress. Due to the potentially high equipment costs, space requirements, and required technical expertise to collect and interpret results, detailed gait analyses are limited to a few centers and mainly used for surgical decision-making. This project uses Artificial Intelligence (AI) for gait analysis at roughly 70% less than typical costs, as well as offering reduced set-up time and improved workflow efficiency.
+      The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project benefitd the 70 million people struggling with gait disorders in the US. Gait analysis monitors how individuals walk to predict or prevent injuries and track rehabilitation progress. Due to the potentially high equipment costs, space requirements, and required technical expertise to collect and interpret results, detailed gait analyses are limited to a few centers and mainly used for surgical decision-making. This project uses Artificial Intelligence (AI) for gait analysis at roughly 70% less than typical costs, as well as offering reduced set-up time and improved workflow efficiency.
 #   - title: 'Object-Oriented Programming in R'
 #     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #     certificate_url: https://www.datacamp.com
