@@ -96,19 +96,19 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
       - name: Machine Learning & Deep Learning (Tensorflow & Pytorch)
         description: ''
         percent: 100
-        icon: chart-bar
+        # icon: chart-bar
       - name: Signal Processing
         description: ''
         percent: 100
-        icon: "custom/sine"
+        # icon: "custom/sine"
       - name: AWS & Google Cloud
         description: ''
         percent: 90
-        icon: circle-stack
+        # icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -116,15 +116,15 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: "custom/tennis"
+        # icon: "custom/tennis"
       - name: Photography
         description: ''
         percent: 100
-        icon: camera
+        # icon: camera
       - name: Cinema
         description: ''
         percent: 80
-        icon: "custom/cinema"
+        # icon: "custom/cinema"
 
 languages:
   - name: English
