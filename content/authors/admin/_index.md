@@ -152,7 +152,7 @@ awards:
     date: '2023-05-23'
     awarder: NSF
     summary: |
-      The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project benefitd the 70 million people struggling with gait disorders in the US. Gait analysis monitors how individuals walk to predict or prevent injuries and track rehabilitation progress. Due to the potentially high equipment costs, space requirements, and required technical expertise to collect and interpret results, detailed gait analyses are limited to a few centers and mainly used for surgical decision-making. This project uses Artificial Intelligence (AI) for gait analysis at roughly 70% less than typical costs, as well as offering reduced set-up time and improved workflow efficiency.
+      The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project benefitd the 70 million. people struggling with gait disorders in the US. Gait analysis monitors how individuals walk to predict or prevent injuries and track rehabilitation progress. Due to the potentially high equipment costs, space requirements, and required technical expertise to collect and interpret results, detailed gait analyses are limited to a few centers and mainly used for surgical decision-making. This project uses Artificial Intelligence (AI) for gait analysis at roughly 70% less than typical costs, as well as offering reduced set-up time and improved workflow efficiency.
 #   - title: 'Object-Oriented Programming in R'
 #     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #     certificate_url: https://www.datacamp.com
