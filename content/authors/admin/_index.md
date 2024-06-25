@@ -142,11 +142,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
  - title: Fung Excellence Scholarship
-    url: https://funginstitute.berkeley.edu/programs-centers/full-time-program/learn-more/tuition-financial-aid/#1698446307521-94589b0a-28a2
-    date: '2019-09-15'
-    awarder: UC Berkeley
-    icon: coursera
-    summary: |
+   url: https://funginstitute.berkeley.edu/programs-centers/full-time-program/learn-more/tuition-financial-aid/#1698446307521-94589b0a-28a2
+   date: '2019-09-15'
+   awarder: UC Berkeley
+   icon: coursera
+   summary: |
        All full-time MEng applications are automatically considered for the Fung Excellence Scholarship. This merit award is given to a subset of candidates with noteworthy academic or professional accomplishments, as determined by department faculty nominations. The award covers approximately 25-50% of the tuition and fees for the full-time MEng program. Exact grant amounts may vary.
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
