@@ -104,7 +104,7 @@ skills:
       - name: Signal Processing
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: sine
       - name: AWS & Google Cloud
         description: ''
         percent: 90
@@ -116,7 +116,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: fa-tennis-ball
+        icon: tennis
       - name: Photography
         description: ''
         percent: 100
@@ -124,7 +124,7 @@ skills:
       - name: Cinema
         description: ''
         percent: 80
-        icon: fa-film
+        icon: cinema
 
 languages:
   - name: English
