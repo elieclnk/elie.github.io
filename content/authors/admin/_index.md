@@ -104,7 +104,7 @@ skills:
       - name: Signal Processing
         description: ''
         percent: 100
-        icon: sine
+        icon: Capa_1
       - name: AWS & Google Cloud
         description: ''
         percent: 90
