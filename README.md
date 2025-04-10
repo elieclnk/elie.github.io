@@ -19,6 +19,3 @@ This website is built using the Hugo Academic CV Theme. It serves as my online r
 Feel free to reach out via [email](mailto:elie.celnikier@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eliecelnikier).
 
 Visit the site: [elieclnk.github.io](https://elieclnk.github.io)
-
----
-Built with [Hugo](https://gohugo.io/) and the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).
