@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Elie Celnikier - Publications</title>
+  <title>Elie Celnikier - Publications & Recognition</title>
   <!-- Font Awesome for social icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌴</text></svg>">
@@ -81,6 +81,9 @@
     .publication:last-child {
       border-bottom: none;
     }
+    .publication-title {
+      margin-bottom: 8px;
+    }
     .publication h3 {
       color: #0366d6;
       margin-bottom: 10px;
@@ -90,6 +93,31 @@
       font-style: italic;
       margin-bottom: 10px;
     }
+    .award {
+      margin-bottom: 30px;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 20px;
+    }
+    .award:last-child {
+      border-bottom: none;
+    }
+    .award-title {
+      color: #222;
+      margin-bottom: 8px;
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+    .award-link {
+      color: #0366d6;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: color 0.2s;
+    }
+    .award-link:hover {
+      color: #0250a3;
+      text-decoration: underline;
+    }
+    
     footer {
       text-align: center;
       color: #aaa;
@@ -104,7 +132,7 @@
       <div>
         <a href="index.html">Home</a>
         <a href="projects.html">Projects</a>
-        <a href="publications.html" class="active">Publications</a>
+        <a href="publications.html" class="active">Publications & Awards</a>
         <a href="other.html">Other</a>
       </div>
     </div>
@@ -112,19 +140,55 @@
 
   <div class="content">
     <main>
-      <h2>Publications</h2>
+      <h2>Awards</h2>
       
+      <div class="award">
+        <div class="award-title">SBIR Phase I: 3D Markerless Motion Capture Technology For Gait Analysis During Rehabilitation</div>
+        <div> Tech co-lead, Evolution Devices </div>
+        <div class="award-amount">$224,990</div>
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014869" target="_blank" class="award-link">
+          View award details →
+        </a>
+      </div>
+
+      <div class="award">
+        <div class="award-title">SBIR Phase II: 3D Markerless Motion Capture Technology For Gait Analysis During Rehabilitation</div>
+        <div> Tech co-lead, Evolution Devices </div>
+        <div class="award-amount">$1,014,608</div>
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153138" target="_blank" class="award-link">
+          View award details →
+        </a>
+      </div>
+
+      <div class="award">
+        <div class="award-title">EvoWalk FDA Approval Class II</div>
+        <a href="https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230997.pdf" target="_blank" class="award-link">
+          View FDA document →
+        </a>
+      </div>
+
+      <div class="award">
+        <div class="award-title">Fung Excellence Scholarship - UC Berkeley</div>
+        <div class="award-amount">$20,000</div>
+      </div>
+
+      <h2>Writings</h2>
+
       <div class="publication">
-        <h3>The Future of Wearable Technology in Healthcare</h3>
-        <div class="date">Coming soon</div>
-        <p>A deep dive into how wearable technology is revolutionizing healthcare monitoring and rehabilitation.</p>
+        E. J. Gann, M. M. Mañago, D. D. Allen, E. Celnikier, and V. J. Block, "Feasibility of telerehabilitation-monitored functional electrical stimulation on walking and quality of life in people with multiple sclerosis: A case series," Int. J. MS Care, vol. 26, no. Q3, pp. 214–223, Aug. 2024. doi: 10.7224/1537-2073.2023-081.
       </div>
       
       <div class="publication">
-        <h3>Optimizing Large Language Models for Personal Use</h3>
-        <div class="date">Coming soon</div>
-        <p>Exploring techniques to fine-tune and optimize large language models for personal applications with limited computing resources.</p>
+        J. Fang, D. P. Kumar, E. Celnikier, M. Snyder, E. Potts, and J. Sosnoff, "Enhancing mobility in persons with footdrop in multiple sclerosis through functional electrical stimulation," Multiple Sclerosis and Related Disorders, vol. 73, p. 104651, 2023. doi: 10.1016/j.msard.2023.104651.
       </div>
+
+      <div class="publication">
+        <div class="publication-title">Personalizing Neurological Patients' Gait Therapy Using Machine Learning-Based Electrical Stimulation. Elie Celnikier, George Durrant, Rongbo Zhou</div>
+        <a href="https://funginstitute.berkeley.edu/capstone-project/evolution-devices-personalizing-neurological-patients-gait-therapy-using-machine-learning-based-electrical-stimulation/" target="_blank" class="award-link">
+          View poster →
+        </a>
+      </div>
+
     </main>
 
     <footer>
