@@ -59,11 +59,6 @@
       color: #222;
       margin-bottom: 5px;
     }
-    h2 {
-      color: #0366d6;
-      margin-top: 40px;
-      text-align: left;
-    }
     .social-icons {
       display: flex;
       justify-content: center;
@@ -138,7 +133,7 @@
       <div>
         <a href="index.html">Home</a>
         <a href="projects.html" class="active">Projects</a>
-        <a href="writings.html">Writings</a>
+        <a href="publications.html">Publications</a>
         <a href="other.html">Other</a>
       </div>
     </div>
@@ -147,33 +142,39 @@
   <div class="content">
 
     <main>      
+      <h2>Projects</h2>
       <div class="project">
-        <h3><a href="https://www.evolutiondevices.com" style="color: #0366d6;" target="_blank">EvoWalk: Wearable Gait Analysis System</a></h3>
-        <p>A sensor-based leg wearable that estimates gait metrics and analyzes walking patterns in real-time.</p>
+        <h3><a href="https://www.evolutiondevices.com" style="color: #0366d6;" target="_blank">EvoWalk: Wearable Device for Muscle Stimulation and Gait Analysis</a></h3>
+        <p> A medical device that analyzes walking patterns in real-time and provides functional muscle stimulation at  the right time for each patient.</p>
         <ul>
-          <li>Developed machine learning models that achieve less than 15% MAE across 5+ spatio-temporal metrics using a single IMU sensor</li>
-          <li>Created algorithms for real-time signal processing and gait analysis</li>
-          <li>Implemented production-grade ML pipelines for continual model improvement</li>
+          <li>Led the design of the real-time and post-processing algorithms for the wearable device</li>
+          <li>Developed the ML models that achieve less than 15% MAE across 10+ spatio-temporal metrics and 2 joint angles using a single IMU sensor</li>
+          <li>Led the design and development of the clinical trials: Received FDA approval early 2024</li>
         </ul>
-        <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
-          <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/E91bR5gJDnY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div style="display: flex; justify-content: left; margin: 20px 0;">
+          <div class="video-container" style="position: relative; width: 560px; max-width: 100%;">
+            <div style="padding-top: 56.25%;"></div>
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/E91bR5gJDnY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
         <div class="tech-tags">
-          <span class="tech-tag">Machine Learning</span>
+          <span class="tech-tag">ML</span>
+          <span class="tech-tag">DL</span>
           <span class="tech-tag">Time Series</span>
           <span class="tech-tag">Signal Processing</span>
           <span class="tech-tag">PyTorch</span>
           <span class="tech-tag">TensorFlow</span>
+          <span class="tech-tag">FDA</span>
         </div>
       </div>
       
       <div class="project">
         <h3><a href="https://www.evovision.ai" style="color: #0366d6;" target="_blank">EvoVision: 3D Markerless Motion Capture</a></h3>
-        <p>A computer vision system for accurate human motion analysis without requiring special markers.</p>
+        <p>A markerless computer vision system for accurate 3D human motion analysis</p>
         <ul>
           <li>Built an end-to-end pipeline: 2D pose estimation via fine-tuned YOLOv5 (Human3.6M + proprietary data), ONNX export, and triangulation with modified aniposelib</li>
           <li>Achieved 30.5 mm joint position and 4.7° joint angle error vs Vicon marker-based system</li>
-          <li>Used for ground truth data collection to train the EvoWalk wearable models</li>
+          <li>Used for ground truth data collection to train and test the EvoWalk  models</li>
         </ul>
         <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153138" target="_blank" class="award-button" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px 0; transition: background-color 0.3s;">
           <i class="fas fa-award" style="margin-right: 8px;"></i>View NSF Award
@@ -183,6 +184,8 @@
           <span class="tech-tag">PyTorch</span>
           <span class="tech-tag">ONNX</span>
           <span class="tech-tag">YOLOv5</span>
+          <span class="tech-tag">Anipose</span>
+          <span class="tech-tag">Triangulation</span>
         </div>
       </div>
       
